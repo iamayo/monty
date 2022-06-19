@@ -30,7 +30,7 @@ void _pchar(stack_t **head, unsigned int line_number)
  * @line_number: line number
  * Return: void
  */
-void _pstr(stack_t **head, unsigned int line_number)
+void pstr(stack_t **head, unsigned int line_number)
 {
 	(void) line_number;
 	stack_t *str;
@@ -57,7 +57,7 @@ void _pstr(stack_t **head, unsigned int line_number)
  * @line_number: line number
  * Return: void
  */
-void _rotl(stack_t **head, unsigned int line_number)
+void rotl(stack_t **head, unsigned int line_number)
 {
 	(void) line_number;
 	stack_t *temp;
@@ -81,7 +81,7 @@ void _rotl(stack_t **head, unsigned int line_number)
  * @line_number: line number
  * Return: void
  */
-void _rotr(stack_t **head, unsigned int line_number)
+void rotr(stack_t **head, unsigned int line_number)
 {
 	(void) line_number;
 	stack_t *temp;
