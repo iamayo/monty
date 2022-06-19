@@ -87,4 +87,3 @@ These are the available Operation Codes:
 ### Authors
 * [Ayo Afolabi](https://github.com/iamayo)
 * [Ayomide Fagboyo](https://github.com/ayomidefagboyo)
-*
